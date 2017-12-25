@@ -1,15 +1,17 @@
 # Resources-for-learning-ethical-hacking
 
 Resources-for-learning-Hacking
+
 #Books
 
-The Hacker Playbook 2: Practical Guide To Penetration Testing
-The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
-Penetration Testing: A Hands-On Introduction to Hacking
-Social Engineering: The Art of Human Hacking
-Hacking: The Art of Exploitation, 2nd Edition
-Ethical Hacking and Penetration Testing Guide
-OWASP Testing Guide (A must read for web application developers and penetration testers)
+1: The Hacker Playbook 2 - Practical Guide To Penetration Testing
+2: The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
+3: Penetration Testing: A Hands-On Introduction to Hacking
+4: Social Engineering: The Art of Human Hacking
+5: Hacking: The Art of Exploitation, 2nd Edition
+6: Ethical Hacking and Penetration Testing Guide
+7: OWASP Testing Guide (A must read for web application developers and penetration testers)
+
 #Websites
 
 Infosecinstitute (http://resources.infosecinstitute.com/)
