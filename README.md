@@ -12,6 +12,7 @@ Resources-for-learning-Hacking
 6: Ethical Hacking and Penetration Testing Guide
 7: OWASP Testing Guide (A must read for web application developers and penetration testers)
 
+
 #Websites
 
 Infosecinstitute (http://resources.infosecinstitute.com/)
