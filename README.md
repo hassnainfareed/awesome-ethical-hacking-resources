@@ -86,7 +86,9 @@ https://www.youtube.com/channel/UCP...
 https://www.youtube.com/channel/UCz...
 
 
-# NOTE:  All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉 if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it.
+# NOTE:
+All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉
+if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it.
 
-
-# For more articles on hacking you can follow me on Medium medium.com/@hussnainfareed
+For more articles on hacking you can follow me on Medium: 
+# medium.com/@hussnainfareed
