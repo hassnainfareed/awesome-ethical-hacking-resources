@@ -37,6 +37,7 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 * [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) - Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
 * [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) - List of offline available vulnerable applications for learning purposes
 
+
 ## Vulnerable Machines/Websites
 
 1.	FiringRange (https://public-firing-range.appspot.com/)
@@ -51,27 +52,25 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 CBT Nuggets CEH Training: http://goo.gl/JuW85U
 CEH Books: https://goo.gl/gjCBLK
 
+
 ## Workshops/Playlists
 
 1.	Web Hacking (https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
 2.	Ethical Hacking, A Comprehensive Playlist covering almost everything (https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
 
-## Videos
 
-1.	Security Tube (http://www.securitytube.net/)
-2.	Kevin Mitnick: Live Hack at CeBIT (https://www.youtube.com/watch?v=Q7G3kKRdUl4)
-3.	Ghost in the Cloud, Kevin Mitnick (https://www.youtube.com/watch?v=76yrWGzScgI)
-4.	Kevin Mitnick | Talks at Google (https://www.youtube.com/watch?v=aUqes9QdLQ4)
-5.	Complete Free Hacking Course: Go from Beginner to Expert Hacker Today (https://www.youtube.com/watch?v=7nF2BAfWUEg)
-
-## Hacking Conferences
-
-## Security Talks and Videos
+## Security Talks and Conferences
 
 1.  [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
 2.  [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
 3.  [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
 4.  [Defcon](https://www.youtube.com/user/DEFCONConference)
+5.  [Security Tube](http://www.securitytube.net/)
+6.	[Kevin Mitnick: Live Hack at CeBIT](https://www.youtube.com/watch?v=Q7G3kKRdUl4)
+7.	[Ghost in the Cloud, Kevin Mitnick](https://www.youtube.com/watch?v=76yrWGzScgI)
+8.	[Kevin Mitnick | Talks at Google](https://www.youtube.com/watch?v=aUqes9QdLQ4)
+9.	[Complete Free Hacking Course: Go from Beginner to Expert Hacker Today](https://www.youtube.com/watch?v=7nF2BAfWUEg)
+
 
 ## YouTube Channels
 
