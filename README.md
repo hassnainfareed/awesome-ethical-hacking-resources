@@ -63,8 +63,12 @@ CEH Books: https://goo.gl/gjCBLK
 
 # Hacking Conferences
 
-1.	Blackhat (https://www.youtube.com/user/BlackHatOfficialYT)
-2.	Defcon (https://www.youtube.com/user/DEFCONConference)
+## Security Talks and Videos
+
+1.  [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
+2.  [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
+3.  [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
+4.  [Defcon](https://www.youtube.com/user/DEFCONConference)
 
 # YouTube Channels
 
