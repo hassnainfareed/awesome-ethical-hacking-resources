@@ -1,5 +1,10 @@
-# Resources For Learning Ethical Hacking
+
+
+# Awesome Resources For Learning Ethical Hacking & Pentesting [![Awesome]
 Basically What I’m sharing here is a Collection of Different Books about Penetration testing & Reverse Engineering That I want to Share with you all.., Along with Some Blogs Links, & YouTube Channels  :) 
+
+### Contribution
+Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
 
 # Books
 
@@ -11,11 +16,21 @@ Basically What I’m sharing here is a Collection of Different Books about Penet
 6.	Hacking: The Art of Exploitation, 2nd Edition
 7.	Web Hacking 101
 8.	OWASP Testing Guide (A must read for web application developers and penetration testers)
+
 # Websites
 
-1.	Infosecinstitute (http://resources.infosecinstitute.com/)
-2.	Pentester Lab (https://pentesterlab.com/)
-3.	Complete Penetration Testing Tutorials by OWASP (https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
+## Learning Platforms
+
+### Online
+* [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu)
+* [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) - List of online available vulnerable applications for learning purposes
+* [Pentestit labs](https://lab.pentestit.ru) - Hands-on Pentesting Labs (OSCP style)
+* [Root-me.org](https://www.root-me.org) - Hundreds of challenges are available to train yourself in different and not simulated environments
+* [Vulnhub.com](https://www.vulnhub.com) - Vulnerable By Design VMs for practical 'hands-on' experience in digital security
+
+1.	[Infosecinstitute.com](http://resources.infosecinstitute.com/)
+2.	[PentesterLab.com](https://pentesterlab.com/)
+3.	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
 4.	Silesia Security Lab (https://silesiasecuritylab.com/blog/)
 5.	Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
 6.	Troyhunt (https://www.troyhunt.com/)
