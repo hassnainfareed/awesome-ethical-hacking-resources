@@ -5,7 +5,7 @@ Basically What I’m sharing here is a Collection of some best resources about P
 ### Contribution
 Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
 
-# Books
+## Books
 
 1.	The Hacker Playbook 2: Practical Guide To Penetration Testing
 2.	The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
@@ -16,7 +16,6 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 7.	Web Hacking 101
 8.	OWASP Testing Guide (A must read for web application developers and penetration testers)
 
-# Websites
 
 ## Learning Platforms
 
@@ -27,20 +26,24 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 * [Root-me.org](https://www.root-me.org) - Hundreds of challenges are available to train yourself in different and not simulated environments
 * [Vulnhub.com](https://www.vulnhub.com) - Vulnerable By Design VMs for practical 'hands-on' experience in digital security
 
-1.	[Infosecinstitute.com](http://resources.infosecinstitute.com/)
-2.	[PentesterLab.com](https://pentesterlab.com/)
-3.	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
-4.	Silesia Security Lab (https://silesiasecuritylab.com/blog/)
-5.	Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
-6.	Troyhunt (https://www.troyhunt.com/)
+*	[Infosecinstitute.com](http://resources.infosecinstitute.com/)
+*	[PentesterLab.com](https://pentesterlab.com/)
+*	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
+*	Silesia Security Lab (https://silesiasecuritylab.com/blog/)
+*	Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
+*	Troyhunt (https://www.troyhunt.com/)
 
-# Vulnerable Machines/Websites
+### Off-Line
+* [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) - Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+* [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) - List of offline available vulnerable applications for learning purposes
+
+## Vulnerable Machines/Websites
 
 1.	FiringRange (https://public-firing-range.appspot.com/)
 
 
 
-# Courses
+## Courses
 
 1.	Computer Systems Security, MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 2.	
@@ -48,12 +51,12 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 CBT Nuggets CEH Training: http://goo.gl/JuW85U
 CEH Books: https://goo.gl/gjCBLK
 
-# Workshops/Playlists
+## Workshops/Playlists
 
 1.	Web Hacking (https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
 2.	Ethical Hacking, A Comprehensive Playlist covering almost everything (https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
 
-# Videos
+## Videos
 
 1.	Security Tube (http://www.securitytube.net/)
 2.	Kevin Mitnick: Live Hack at CeBIT (https://www.youtube.com/watch?v=Q7G3kKRdUl4)
@@ -61,7 +64,7 @@ CEH Books: https://goo.gl/gjCBLK
 4.	Kevin Mitnick | Talks at Google (https://www.youtube.com/watch?v=aUqes9QdLQ4)
 5.	Complete Free Hacking Course: Go from Beginner to Expert Hacker Today (https://www.youtube.com/watch?v=7nF2BAfWUEg)
 
-# Hacking Conferences
+## Hacking Conferences
 
 ## Security Talks and Videos
 
@@ -70,7 +73,7 @@ CEH Books: https://goo.gl/gjCBLK
 3.  [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
 4.  [Defcon](https://www.youtube.com/user/DEFCONConference)
 
-# YouTube Channels
+## YouTube Channels
 
 Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
 https://www.youtube.com/channel/UCP...
@@ -109,4 +112,4 @@ All references taken from Internet and shared on internet xD Thanks to those who
 if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it.
 
 For more articles on hacking you can follow me on Medium: 
-# medium.com/@hussnainfareed
+## medium.com/@hussnainfareed
