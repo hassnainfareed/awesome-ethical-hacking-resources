@@ -1,7 +1,6 @@
+# Resources For Learning Ethical Hacking & Pentesting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Pentest Cheat Sheets [![Awesome]
-# Resources For Learning Ethical Hacking & Pentesting [![Awesome]
-Basically What I’m sharing here is a Collection of Different Books about Penetration testing & Reverse Engineering That I want to Share with you all.., Along with Some Blogs Links, & YouTube Channels  :) 
+Basically What I’m sharing here is a Collection of some best resources about Penetration Testing & Reverse Engineering That I want to Share with you all.., Along with Some Blogs Links, & YouTube Channels  :) 
 
 ### Contribution
 Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
