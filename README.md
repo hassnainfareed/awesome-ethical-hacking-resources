@@ -40,23 +40,25 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 
 ## Vulnerable Machines/Websites
 
-1.	FiringRange (https://public-firing-range.appspot.com/)
+1.	[FiringRange](https://public-firing-range.appspot.com/)
 
 
 
 ## Courses
 
-1.	Computer Systems Security, MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
-2.	
-3.	For those who want to do CEH, the following links are for you.
-CBT Nuggets CEH Training: http://goo.gl/JuW85U
-CEH Books: https://goo.gl/gjCBLK
+1.	[Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+
+For those who want to do CEH, the following links are for you.	
+2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
+3. [CEH Books](https://goo.gl/gjCBLK) 
+
+
 
 
 ## Workshops/Playlists
 
-1.	Web Hacking (https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
-2.	Ethical Hacking, A Comprehensive Playlist covering almost everything (https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
+1.	[Web Hacking](https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
+2.	[Ethical Hacking, A Comprehensive Playlist covering almost everything](https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
 
 
 ## Security Talks and Conferences
