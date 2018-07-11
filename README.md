@@ -29,9 +29,9 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 *	[Infosecinstitute.com](http://resources.infosecinstitute.com/)
 *	[PentesterLab.com](https://pentesterlab.com/)
 *	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
-*	Silesia Security Lab (https://silesiasecuritylab.com/blog/)
-*	Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
-*	Troyhunt (https://www.troyhunt.com/)
+*	[Silesia Security Lab](https://silesiasecuritylab.com/blog/)
+*	[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/)
+*	[Troyhunt](https://www.troyhunt.com/)
 
 ### Off-Line
 * [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) - Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
