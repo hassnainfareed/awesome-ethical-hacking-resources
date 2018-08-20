@@ -78,26 +78,28 @@ For those who want to do CEH, the following links are for you.
 
 Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
 
-https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw
-https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg
-https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ
-https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA
-https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg
-https://www.youtube.com/channel/UC59IHQcCmgNw4GIvsXeLnDQ
-https://www.youtube.com/channel/UC_jNs1biBixcQeSUoJxvNLw
-https://www.youtube.com/channel/UCV89UhUtxqwP0j4o9tMipsA
-https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
-https://www.youtube.com/channel/UCaftcKRiJJW0AJHmR1E5MAQ
-https://www.youtube.com/channel/UCPxJLZCoIRJHs1VebWeaByA
-https://www.youtube.com/channel/UC4QJ7X4nnkAYXsnFQpdytcA
-https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
-https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A
-https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
-https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA
-https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg
-https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg
-https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw
+1. https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw
+2. https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg
+3. https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ
+4. https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA
+5. https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg
+6. https://www.youtube.com/channel/UC59IHQcCmgNw4GIvsXeLnDQ
+7. https://www.youtube.com/channel/UC_jNs1biBixcQeSUoJxvNLw
+8. https://www.youtube.com/channel/UCV89UhUtxqwP0j4o9tMipsA
+9. https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
+10. https://www.youtube.com/channel/UCaftcKRiJJW0AJHmR1E5MAQ
+11. https://www.youtube.com/channel/UCPxJLZCoIRJHs1VebWeaByA
+12. https://www.youtube.com/channel/UC4QJ7X4nnkAYXsnFQpdytcA
+13. https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
+14. https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A
+15. https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
+16. https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA
+17. (https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg)
+18. (https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg)
+19. (https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
+20. (https://www.youtube.com/user/DEFCONConference)
 
+Any Channel Link Missing? Kindly add it in Comments 
 
 # NOTE:
 All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉
