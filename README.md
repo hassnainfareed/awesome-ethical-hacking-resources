@@ -94,10 +94,10 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 14. https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A
 15. https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
 16. https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA
-17. (https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg)
-18. (https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg)
-19. (https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
-20. (https://www.youtube.com/user/DEFCONConference)
+17. https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg
+18. https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg
+19. https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw
+20. https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA
 
 Any Channel Link Missing? Kindly add it in Comments 
 
