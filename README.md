@@ -51,6 +51,7 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
 For those who want to do CEH, the following links are for you.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
 3. [CEH Books](https://goo.gl/gjCBLK) 
+4. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
 
 
 
