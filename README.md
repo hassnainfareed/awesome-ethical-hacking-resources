@@ -79,26 +79,26 @@ For those who want to do CEH, the following links are for you.
 
 Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
 
-1. https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw
-2. https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg
-3. https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ
-4. https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA
-5. https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg
-6. https://www.youtube.com/channel/UC59IHQcCmgNw4GIvsXeLnDQ
-7. https://www.youtube.com/channel/UC_jNs1biBixcQeSUoJxvNLw
-8. https://www.youtube.com/channel/UCV89UhUtxqwP0j4o9tMipsA
-9. https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
-10. https://www.youtube.com/channel/UCaftcKRiJJW0AJHmR1E5MAQ
-11. https://www.youtube.com/channel/UCPxJLZCoIRJHs1VebWeaByA
-12. https://www.youtube.com/channel/UC4QJ7X4nnkAYXsnFQpdytcA
-13. https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
-14. https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A
-15. https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
-16. https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA
-17. https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg
-18. https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg
-19. https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw
-20. https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA
+1. [SecurityIdiots](https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw)
+2. [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+3. [Injector Pca](https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ)
+4. [Hisham Mir](https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA)
+5. [Devil Killer](https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg)
+6. [Suleman Malik](https://www.youtube.com/channel/UC59IHQcCmgNw4GIvsXeLnDQ)
+7. [Dem0n](https://www.youtube.com/channel/UC_jNs1biBixcQeSUoJxvNLw)
+8. [Frans Rosén](https://www.youtube.com/channel/UCV89UhUtxqwP0j4o9tMipsA)
+9. [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+10. [ak1t4 machine](https://www.youtube.com/channel/UCaftcKRiJJW0AJHmR1E5MAQ)
+11. [Shawar Khan](https://www.youtube.com/channel/UCPxJLZCoIRJHs1VebWeaByA)
+12. [vulnerability0lab](https://www.youtube.com/channel/UC4QJ7X4nnkAYXsnFQpdytcA)
+13. [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+14. [Vijay Kumar](https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A)
+15. [Web Development Tutorials](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
+16. [Jan Wikholm](https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA)
+17. [Bhargav Tandel](https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg)
+18. [ErrOr SquaD](https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg)
+19. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
+20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 
 Any Channel Link Missing? Kindly add it in Comments 
 
