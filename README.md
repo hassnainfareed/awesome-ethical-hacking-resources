@@ -6,8 +6,6 @@ Basically What I’m sharing here is a Collection of some best resources about P
 
 Also you can find my own writeups/tutorials on medium : @hussnainfareed  :) 
 
-### Contribution
-Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
 
 ## Books
 
@@ -105,6 +103,9 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 
 Any Channel Link Missing? Kindly add it in Comments 
+
+### Contribution
+Your contributions and suggestions are heartily welcome. 
 
 # NOTE:
 All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉
