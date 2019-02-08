@@ -1,6 +1,10 @@
 ## Awesome Resources For Learning Hacking & Pentesting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Basically What I’m sharing here is a Collection of some best resources about Penetration Testing & Reverse Engineering That I want to Share with you all.., Along with Some Blogs Links, & YouTube Channels  :) 
+Basically What I’m sharing here is a Collection of some best resources about Penetration Testing & Reverse Engineering, I made this repository to help the new members on this field with my own personal notes! :D
+
+(Maybe i forgot to add some of my notes but i'll do daily updates!)
+
+Also you can find my own writeups/tutorials on medium : @hussnainfareed  :) 
 
 ### Contribution
 Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
