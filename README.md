@@ -44,7 +44,27 @@ Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)
 
 1.	[FiringRange](https://public-firing-range.appspot.com/)
 
+## Vulnerability Databases And Resources
 
+Vulnerability Databases are the first place to start your day as a security professional. Any new vulnerability detection is generally available through the public vulnerability databases. These databases are a big source of information for hackers to be able to understand and exploit/avoid/fix the vulnerability. 
+ 
+
+http://www.exploit-db.com/
+http://1337day.com/
+http://securityvulns.com/
+http://www.securityfocus.com/
+http://www.osvdb.org/
+http://www.securiteam.com/
+http://secunia.com/advisories/
+http://insecure.org/sploits_all.html
+http://zerodayinitiative.com/advisories/published/
+http://nmrc.org/pub/index.html
+http://web.nvd.nist.gov
+http://www.vupen.com/english/security-advisories/
+http://www.vupen.com/blog/
+http://cvedetails.com/
+http://www.rapid7.com/vulndb/index.jsp
+http://oval.mitre.org/
 
 ## Courses
 
