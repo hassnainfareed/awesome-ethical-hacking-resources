@@ -62,17 +62,29 @@ Vulnerability Databases are the first place to start your day as a security prof
 * http://securityvulns.com/
 * http://www.securityfocus.com/
 * http://www.osvdb.org/
-http://www.securiteam.com/
-http://secunia.com/advisories/
-http://insecure.org/sploits_all.html
-http://zerodayinitiative.com/advisories/published/
-http://nmrc.org/pub/index.html
-http://web.nvd.nist.gov
-http://www.vupen.com/english/security-advisories/
-http://www.vupen.com/blog/
-http://cvedetails.com/
-http://www.rapid7.com/vulndb/index.jsp
-http://oval.mitre.org/
+* http://www.securiteam.com/
+* http://secunia.com/advisories/
+* http://insecure.org/sploits_all.html
+* http://zerodayinitiative.com/advisories/published/
+* http://nmrc.org/pub/index.html
+* http://web.nvd.nist.gov
+* http://www.vupen.com/english/security-advisories/
+* http://www.vupen.com/blog/
+* http://cvedetails.com/
+* http://www.rapid7.com/vulndb/index.jsp
+* http://oval.mitre.org/
+
+### Linux Penetration Testing OS
+Name    |    Description
+----    |    -----
+[Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
+[BackBox](https://backbox.org/index) | open source community project, promoting security in IT enivornments
+[BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
+[Bugtraq](http://bugtraq-team.com/) | advanced GNU Linux pen-testing technology
+[Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
+[LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
+[Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+
 
 ## Courses
 
@@ -82,7 +94,6 @@ For those who want to do CEH, the following links are for you.
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
 3. [CEH Books](https://goo.gl/gjCBLK) 
 4. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
-
 
 
 
@@ -131,6 +142,16 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 
 Any Channel Link Missing? Kindly add it in Comments 
+
+### Forums
+Name    |    Description
+----    |    ----
+[0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
+[Antichat](https://forum.antichat.ru/) | russian based forum
+[CODEBY.NET](https://codeby.net/) | hacker, WAPT, malware, computer engineering, Reverse engineering, forensics - russian based forum
+[EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
+[Greysec](https://greysec.net) | hacking and security forum
+[Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
 
 ### Contribution
 Your contributions and suggestions are heartily welcome. 
