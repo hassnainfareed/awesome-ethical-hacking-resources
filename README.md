@@ -2,7 +2,7 @@
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster!
 
-(Maybe i forgot to add some of my notes but i'll do daily updates!)
+(Maybe i forgot to add some of my notes but i'll do regular updates!)
 
 **Let's make it the biggest resource repository for our community.**
 
@@ -24,6 +24,8 @@ Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)
 ## Learning Platforms
 
 ### Online
+Name  |  Description
+----  |  ----
 * [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu)
 * [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) - List of online available vulnerable applications for learning purposes
 * [Pentestit labs](https://lab.pentestit.ru) - Hands-on Pentesting Labs (OSCP style)
