@@ -4,7 +4,7 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 
 (Maybe i forgot to add some of my notes but i'll do daily updates!)
 
-Let's make it the biggest resource repository for our community.
+**Let's make it the biggest resource repository for our community.**
 
 Also you can find my own writeups/tutorials on medium : @hussnainfareed  :) 
 
