@@ -1,7 +1,10 @@
 # Awesome Resources For Learning Hacking & Pentesting ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
-Basically What I’m sharing here is a Collection of some best resources about Penetration Testing & Reverse Engineering, I made this repository to help the new members on this field with my own personal notes! :D
+
+What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster!
 
 (Maybe i forgot to add some of my notes but i'll do daily updates!)
+
+Let's make it the biggest resource repository for our community.
 
 Also you can find my own writeups/tutorials on medium : @hussnainfareed  :) 
 
