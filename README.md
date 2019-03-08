@@ -123,7 +123,7 @@ For those who want to do CEH, the following links are for you.
 
 Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
 
-1. [SecurityIdiots](https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw)
+1. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)    
 2. [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 3. [Injector Pca](https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ)
 4. [Hisham Mir](https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA)
@@ -141,8 +141,9 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 16. [Jan Wikholm](https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA)
 17. [Bhargav Tandel](https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg)
 18. [ErrOr SquaD](https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg)
-19. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
+19. [SecurityIdiots](https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw)
 20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
+21. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
 
 Any Channel Link Missing? Kindly add it in Comments 
 
