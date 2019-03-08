@@ -31,7 +31,6 @@ Name  |  Description
 [Pentestit labs](https://lab.pentestit.ru) | Hands-on Pentesting Labs (OSCP style)
 [Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
 [Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
-
 [Infosecinstitute.com](http://resources.infosecinstitute.com/) |
 [PentesterLab.com](https://pentesterlab.com/) |
 [Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing) |
