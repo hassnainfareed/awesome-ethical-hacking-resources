@@ -73,13 +73,12 @@ Vulnerability Databases are the first place to start your day as a security prof
 ### Linux Penetration Testing OS
 Name    |    Description
 ----    |    -----
-[Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
-[BackBox](https://backbox.org/index) | open source community project, promoting security in IT enivornments
-[BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
-[Bugtraq](http://bugtraq-team.com/) | advanced GNU Linux pen-testing technology
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
-[LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+[Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
+[BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
+[LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
+
 
 
 ## Courses
