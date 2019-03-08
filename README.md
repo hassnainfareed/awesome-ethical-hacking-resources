@@ -2,6 +2,8 @@
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
+**You are welcome to fork and contribute.**
+
 **Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)**
 
 
@@ -70,6 +72,13 @@ Vulnerability Databases are the first place to start your day as a security prof
 * http://www.rapid7.com/vulndb/index.jsp
 * http://oval.mitre.org/
 
+### Malware Analysis
+Name    |    Description
+----    |    ----
+[Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
+[Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
+[Bad Binaries] (https://www.badbinaries.com/) | walkthrough documents of malware traffic analysis exercises and some occasional malware analysis.
+
 ### Linux Penetration Testing OS
 Name    |    Description
 ----    |    -----
@@ -78,7 +87,6 @@ Name    |    Description
 [Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
 [BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
-
 
 
 ## Courses
