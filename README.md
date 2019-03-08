@@ -26,22 +26,22 @@ Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)
 ### Online
 Name  |  Description
 ----  |  ----
-* [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu)
-* [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) - List of online available vulnerable applications for learning purposes
-* [Pentestit labs](https://lab.pentestit.ru) - Hands-on Pentesting Labs (OSCP style)
-* [Root-me.org](https://www.root-me.org) - Hundreds of challenges are available to train yourself in different and not simulated environments
-* [Vulnhub.com](https://www.vulnhub.com) - Vulnerable By Design VMs for practical 'hands-on' experience in digital security
+* [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) |
+* [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) | List of online available vulnerable applications for learning purposes.
+* [Pentestit labs](https://lab.pentestit.ru) | Hands-on Pentesting Labs (OSCP style)
+* [Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
+* [Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
 
-*	[Infosecinstitute.com](http://resources.infosecinstitute.com/)
-*	[PentesterLab.com](https://pentesterlab.com/)
-*	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
-*	[Silesia Security Lab](https://silesiasecuritylab.com/blog/)
-*	[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/)
-*	[Troyhunt](https://www.troyhunt.com/)
+*	[Infosecinstitute.com](http://resources.infosecinstitute.com/) |
+*	[PentesterLab.com](https://pentesterlab.com/) |
+*	[Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing) |
+*	[Silesia Security Lab](https://silesiasecuritylab.com/blog/) |
+*	[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) |
+*	[Troyhunt](https://www.troyhunt.com/) |
 
 ### Off-Line
-* [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) - Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
-* [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) - List of offline available vulnerable applications for learning purposes
+* [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+* [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
 
 
 ## Vulnerable Machines/Websites
