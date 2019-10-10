@@ -17,6 +17,8 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 6.	Hacking: The Art of Exploitation, 2nd Edition
 7.	Web Hacking 101
 8.	OWASP Testing Guide (A must read for web application developers and penetration testers)
+9.	The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+10. The Basics of Web Hacking: Tools and Techniques to Attack the Web
 
 
 ## Learning Platforms to Sharpen Your Skills
@@ -37,6 +39,7 @@ Name  |  Description
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation.
 [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers.
 [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
+[PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 
 
 ### Off-Line
