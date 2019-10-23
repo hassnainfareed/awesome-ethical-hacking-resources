@@ -74,6 +74,8 @@ Vulnerability Databases are the first place to start your day as a security prof
 * http://cvedetails.com/
 * http://www.rapid7.com/vulndb/index.jsp
 * http://oval.mitre.org/
+* http://sploitus.com/
+* http://cxsecurity.com/
 
 ### Malware Analysis
 Name    |    Description
