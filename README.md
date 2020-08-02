@@ -149,6 +149,7 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 19. [SecurityIdiots](https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw)
 20. [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 21. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
+22. [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
 Any Channel Link Missing? Kindly add it in Comments 
 
