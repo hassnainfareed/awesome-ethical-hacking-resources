@@ -156,6 +156,8 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 23. [ZAID](https://www.youtube.com/user/zaidsabeeh)
 24. [vabs tutorial](https://www.youtube.com/channel/UCa0wCQEB8CRKzjJV2GZ_EzA)
 25. [the cyber mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+26. [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
+
 Any Channel Link Missing? Kindly add it in Comments 
 
 ### Forums
