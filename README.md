@@ -1,4 +1,4 @@
-# Awesome Resources For Learning Hacking & Pentesting ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+# Awesome Resources For Learning Ethical Hacking & Pentesting ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
