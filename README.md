@@ -1,13 +1,13 @@
-# Awesome Resources For Learning Ethical Hacking & Pentesting ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+# Etik Hackerlık ve Penetrasyon Testleri İçin Harika Kaynaklar !(https://img.shields.io/badge/awesome-hacking-red.svg) ![Harika Topluluk](https://img.shields.io/badge/awesome-community-green.svg)
 
-What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
+Hacking ve Penetrasyon Testi hakkında en iyi kaynaklardan oluşan bir koleksiyon paylaşıyorum, böylece daha hızlı öğrenebilirsiniz! Topluluğumuz için en iyi kaynak deposunu oluşturalım
 
-**You are welcome to fork and contribute.**
+**Forklayıp katkıda bulunabilirsiniz.**
 
-**Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)**
+**Ayrıca, kendi yazılarımı/öğreticilerimi Medium platformunda da bulabilirsiniz. : @hussnainfareed  :)**
 
 
-## Books
+## Kitaplar
 
 1.	The Hacker Playbook 2: Practical Guide To Penetration Testing
 2.	The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
@@ -21,42 +21,42 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 10. The Basics of Web Hacking: Tools and Techniques to Attack the Web
 
 
-## Learning Platforms to Sharpen Your Skills
+## Becerilerinizi geliştirmeniz için öğrenme platformları 
 
 ### Online
-Name  |  Description
+İsim  |  Açıklama
 ----  |  ----
-[CTF Hacker101](https://ctf.hacker101.com/) | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.
-[Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) | An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
-[TryHackMe](https://tryhackme.com) | TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
-[CTF365](https://ctf365.com/) | An account based ctf site, awarded by Kaspersky, MIT, T-Mobile.
-[Backdoor](https://backdoor.sdslabs.co) | Pen testing labs that have a space for beginners, a practice arena and various competitions, account required.
-[Hack.me](https://hack.me/) | Lets you build/host/attack vulnerable web apps.
-[CTFLearn](https://ctflearn.com/) | An account-based ctf site, where users can go in and solve a range of challenges.
-[OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) | List of online available vulnerable applications for learning purposes.
-[Pentestit labs](https://lab.pentestit.ru) | Hands-on Pentesting Labs (OSCP style)
-[Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
-[Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
-[Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation.
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers.
-[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
-[PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
-[CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
+[CTF Hacker101](https://ctf.hacker101.com/) | Hacker101 CTF, güvenli ve ödüllendirici bir ortamda hacklemeyi öğrenmenizi sağlayan bir oyun olarak tasarlanmıştır. Hacker101, hackerlar için ücretsiz bir eğitim sitesidir.
+[Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) | Penetrasyon testi ve Siber Güvenlik alanındaki becerilerinizi test etmek ve ilerletmek için bir çevrimiçi platform. Bugün katılın ve çevrimiçi laboratuvarlarımızda eğitime başlayın.
+[TryHackMe](https://tryhackme.com) | TryHackMe, kısa, oyunlaştırılmış gerçek dünya laboratuvarları aracılığıyla siber güvenliği öğreten bir çevrimiçi platformdur.
+[CTF365](https://ctf365.com/) | Kaspersky, MIT, T-Mobile tarafından ödüllendirilen, hesap tabanlı bir CTF (Capture the flag) sitesi.
+[Backdoor](https://backdoor.sdslabs.co) | Başlangıç seviyesi için bir alan, pratik yapma ortamı ve çeşitli yarışmaların bulunduğu hesap gerektiren penetrasyon testi laboratuvarları.
+[Hack.me](https://hack.me/) | Zayıf noktalara sahip web uygulamalarını oluşturmanıza/yerleştirmenize/saldırmanıza izin verir.
+[CTFLearn](https://ctflearn.com/) | Hesap tabanlı bir CTF sitesi, kullanıcıların girip çeşitli zorlukları çözebildiği bir platform
+[OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) | Öğrenme amaçlı çevrimiçi olarak erişilebilen zayıf noktalara sahip uygulamaların listesi.
+[Pentestit labs](https://lab.pentestit.ru) | Uygulamalı Pentesting Laboratuvarları (OSCP tarzı)
+[Root-me.org](https://www.root-me.org) | Farklı ve simüle edilmemiş ortamlarda kendinizi eğitmek için yüzlerce zorluk mevcuttur. 
+[Vulnhub.com](https://www.vulnhub.com) | Pratik 'hands-on' deneyim için dijital güvenlikte kullanıma hazır şekilde zayıf noktalara sahip sanal makineler.
+[Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Linux ve Windows ayrıcalık yükseltme becerilerinizi pratik edin.
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | Başlangıç seviyesi için uygun bir şekilde birçok ekran görüntüsü içeren CTF Kısa Yazı Toplama.
+[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Rafay Baloch tarafından yapılan yazı toplamları.
+[PentesterLab](https://pentesterlab.com/) | Kayıtı 20$ olan, exploid yazmak için temel içeriği, web, android gibi konuları kapsayan tam içerik.
+[CyberSec WTF](https://cybersecurity.wtf/)| Bounty yazılarından emüle edilmiş web pentesting zorlukları
 
 ### Off-Line
-Name  |  Description
+İsim  |  Açıklama
 ----  |  ----
-[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
-[OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
+[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Çeşitli zayıf noktalara sahip web uygulamalarını içeren bir Docker Konteyneri (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II ve daha fazlası.)
+[OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | Öğrenme amaçlı olarak çevrimdışı olarak erişilebilen zayıf noktalara sahip uygulamaların listesi.
 
 
-## Vulnerable Machines/Websites
+## Zayıf Noktalı Makineler/Websiteler
 
 1.	[FiringRange](https://public-firing-range.appspot.com/)
 
-## Vulnerability Databases And Resources
+## Zayıf noktaların olduğu veritabanları ve Kaynaklar
 
-Vulnerability Databases are the first place to start your day as a security professional. Any new vulnerability detection is generally available through the public vulnerability databases. These databases are a big source of information for hackers to be able to understand and exploit/avoid/fix the vulnerability. 
+Zayıf Nokta Veritabanları, bir güvenlik uzmanı olarak gününüze başlamanız için ilk başvurmanız gereken yerdir. Genellikle herhangi bir yeni zayıf nokta tespiti, halka açık zayıf nokta veritabanları aracılığıyla yayınlanır. Bu veritabanları, hacker'ların zayıf noktayı anlamaları, sömürmeleri/önlemeleri/düzeltmeleri için büyük bir bilgi kaynağıdır.
  
 
 * http://www.exploit-db.com/
@@ -78,44 +78,43 @@ Vulnerability Databases are the first place to start your day as a security prof
 * http://sploitus.com/
 * http://cxsecurity.com/
 
-### Malware Analysis
+### Kötü Amaçlı Yazılım Analizi 
 Name    |    Description
 ----    |    ----
-[Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
-[Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
-[Bad Binaries] (https://www.badbinaries.com/) | walkthrough documents of malware traffic analysis exercises and some occasional malware analysis.
-
-### Linux Penetration Testing OS
+[Malware traffic analysis](http://www.malware-traffic-analysis.net/) | Trafik analizi egzersizleri listesi
+[Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | RPISEC ekibinden başka bir sınıf, kaliteli içerik.
+[Bad Binaries] (https://www.badbinaries.com/) | Kötü Amaçlı Yazılım Trafik Analizi egzersizlerinin adım adım belgeleri ve zaman zaman yapılan kötü amaçlı yazılım analizi.
+### Linux Penetrasyon Testleri OS
 Name    |    Description
 ----    |    -----
-[Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
-[Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
-[Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
-[BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
-[LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
+[Kali](http://kali.org/) | Offensive Security ekibinden ün salmış pentesting dağıtımı.
+[Parrot ](https://www.parrotsec.org/) | Debian, güvenlik, DFIR (Dijital Delil İnceleme ve Kurtarma) ve geliştirme için tam taşınabilir bir laboratuvar içerir.
+[Android Tamer](https://androidtamer.com//) | Android Tamer, Android güvenlik profesyonelleri için sanal/canlı bir platformdur.
+[BlackArch](https://blackarch.org/index.html) | Arch Linux tabanlı pentesting dağıtımı, Arch kurulumlarıyla uyumlu.
+[LionSec Linux](https://lionsec-linux.org/) | Ubuntu tabanlı pentesting işletim sistemi.
 
 
-## Courses
+## Kurslar
 
 1.	[Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
 3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
 4.[hackers academy](https://hackersacademy.com/)
 
-For those who want to do CEH, the following links are for you.	
+CEH yapmak isteyenler için aşağıdaki bağlantılar sizin için.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
 3. [CEH Books](https://goo.gl/gjCBLK) 
 4. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
 
 
 
-## Workshops/Playlists
+## Workshoplar/Çalma Listeleri
 
 1.	[Web Hacking](https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
 2.	[Ethical Hacking, A Comprehensive Playlist covering almost everything](https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
 
 
-## Security Talks and Conferences
+## Güvenlik Konuşmaları ve Konferanslar
 
 1.  [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
 2.  [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
@@ -128,9 +127,9 @@ For those who want to do CEH, the following links are for you.
 9.	[Complete Free Hacking Course: Go from Beginner to Expert Hacker Today](https://www.youtube.com/watch?v=7nF2BAfWUEg)
 
 
-## YouTube Channels
+## YouTube Kanalları
 
-Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
+Şimdi YouTube kanalı bağlantılarına geçelim... Bu kanallar, videolarını POC'ları (kanıt konseptleri) ile paylaşan hackerlar tarafından yönetilmektedir. Bu videoları izleyerek, bu tür saldırıları nasıl gösterileceğini gerçekten anlayabilirsiniz.
 
 1. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)    
 2. [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
@@ -159,24 +158,25 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 25. [the cyber mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 26. [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 
-Any Channel Link Missing? Kindly add it in Comments 
+Eksik bir kanal bağlantısı var mı? Lütfen yorumlara ekleyin. 
 
-### Forums
-Name    |    Description
+### Forumlar
+İsim    |    Açıklama
 ----    |    ----
-[0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
-[Antichat](https://forum.antichat.ru/) | russian based forum
-[CODEBY.NET](https://codeby.net/) | hacker, WAPT, malware, computer engineering, Reverse engineering, forensics - russian based forum
-[EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
-[Greysec](https://greysec.net) | hacking and security forum
-[Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
+[0x00sec](https://0x00sec.org/) | hacker, zararlı yazılım, bilgisayar mühendisliği, tersten mühendislik
+[Antichat](https://forum.antichat.ru/) | rus tabanlı forum
+[CODEBY.NET](https://codeby.net/) | hacker, WAPT, zararlı yazılım, bilgisayar mühendisliği, tersine mühendislik, adli bilişim - Rusya merkezli forum.
+[EAST Exploit database](http://eastexploits.com/) | EAST Pentest Framework için yazılmış ticari zafiyetleri içeren bir zafiyet veritabanı.
+[Greysec](https://greysec.net) | hacking ve güvenlik forumu.
+[Hackforums](https://hackforums.net/) | hacks/exploits/çeşitli tartışma konuları için bir posting forumu.
 
-### Contribution
-Your contributions and suggestions are heartily welcome. 
+### Katkılar
+Katkılarınız ve önerileriniz büyük bir memnuniyetle karşılanır. 
 
-# NOTE:
-All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉
-if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it here.
+# NOT:
+Tüm referanslar internetten alınmış ve internet üzerinde paylaşılmıştır xD Öğrenmeme yardımcı olan önceki görüşlerini paylaşanlara teşekkürler 😉 Eğer herhangi bir sorunuz varsa, lütfen yorumlarda sorun. Başlangıç seviyesi için iyi bir kaynak biliyorsanız, lütfen burada paylaşın. 
 
-For more articles on hacking you can follow me on Medium: 
+Hacking hakkında daha fazla makale için beni Medium üzerinde takip edebilirsiniz:
 ## medium.com/@hussnainfareed
+
+Türkçe Çeviri: toXXSin :)
