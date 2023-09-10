@@ -97,7 +97,7 @@ Name    |    Description
 
 ## Courses
 
-1.	[Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+1.	[Computer Systems Security, MIT](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
 3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
 4.[hackers academy](https://hackersacademy.com/)
