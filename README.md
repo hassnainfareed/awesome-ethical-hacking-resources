@@ -2,6 +2,21 @@
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
+## Contents
+
+- [Books](#books)
+- [Online ](#online)
+- [Offline](#offline)
+- [Vulnerable Machines and Websites](#Vulnerable-machines-and-websites)
+- [Vulnerability Databases And Resources](#vulnerability-databases-and-resources)
+- [Malware Analysis](#malware-analysis)
+- [Linux Penetration Testing OS](#linux-penetration-testing-os)
+- [Courses](#courses)
+- [Workshop Playlists](#workshop-playlists)
+- [Security Talks and Conferences](#security-talks-and-conferences)
+- [YouTube Channels](#youtube-channels)
+- [Forums](#forums)
+
 **You are welcome to fork and contribute.**
 
 **Also you can find my own writeups/tutorials on medium: @hussnainfareed  :)**
