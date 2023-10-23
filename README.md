@@ -53,7 +53,7 @@ Name  |  Description
 [Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
 [Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation.
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers.
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beginners.
 [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
 [PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 [CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
@@ -61,7 +61,7 @@ Name  |  Description
 ### Off-Line
 Name  |  Description
 ----  |  ----
-[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vulnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
 [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
 
 
