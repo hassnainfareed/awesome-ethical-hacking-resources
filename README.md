@@ -114,13 +114,14 @@ Name    |    Description
 
 1.	[Computer Systems Security, MIT](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
-3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
-4.[hackers academy](https://hackersacademy.com/)
+3. [cybrary](https://www.cybrary.it/catalog/cybersecurity/)
+4. [hackers academy](https://hackersacademy.com/)
+5. [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity)
 
-For those who want to do CEH, the following links are for you.	
-2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
-3. [CEH Books](https://goo.gl/gjCBLK) 
-4. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
+### For those who want to do CEH, the following links are for you.	
+1. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
+2. [CEH Books](https://goo.gl/gjCBLK) 
+3. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
 
 
 
