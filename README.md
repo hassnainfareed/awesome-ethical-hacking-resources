@@ -19,7 +19,7 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 
 **You are welcome to fork and contribute.**
 
-**Also you can find my own writeups/tutorials on medium: @hussnainfareed  :)**
+**Also you can find my writeups/tutorials on medium: @hussnainfareed  :)**
 
 
 ## Books
@@ -44,8 +44,8 @@ Name  |  Description
 [CTF Hacker101](https://ctf.hacker101.com/) | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.
 [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) | An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
 [TryHackMe](https://tryhackme.com) | TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
-[CTF365](https://ctf365.com/) | An account based ctf site, awarded by Kaspersky, MIT, T-Mobile.
-[Backdoor](https://backdoor.sdslabs.co) | Pen testing labs that have a space for beginners, a practice arena and various competitions, account required.
+[CTF365](https://ctf365.com/) | An account-based ctf site, awarded by Kaspersky, MIT, and T-Mobile.
+[Backdoor](https://backdoor.sdslabs.co) | Pen testing labs that have a space for beginners, a practice arena, and various competitions, account required.
 [Hack.me](https://hack.me/) | Lets you build/host/attack vulnerable web apps.
 [CTFLearn](https://ctflearn.com/) | An account-based ctf site, where users can go in and solve a range of challenges.
 [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) | List of online available vulnerable applications for learning purposes.
@@ -53,7 +53,7 @@ Name  |  Description
 [Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
 [Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation.
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beginners.
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write-up collection with a lot of screenshots good for beginners.
 [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
 [PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 [CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
@@ -61,7 +61,7 @@ Name  |  Description
 ### Off-Line
 Name  |  Description
 ----  |  ----
-[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vulnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vulnerable web applications (DVWA, DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
 [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
 
 
@@ -103,10 +103,10 @@ Name    |    Description
 ### Linux Penetration Testing OS
 Name    |    Description
 ----    |    -----
-[Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
-[Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+[Kali](http://kali.org/) | the infamous pen-testing distro from the folks at Offensive Security
+[Parrot ](https://www.parrotsec.org/) | Debian includes a full portable lab for security, DFIR, and development
 [Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals.
-[BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
+[BlackArch](https://blackarch.org/index.html) | Arch Linux-based pentesting distro, compatible with Arch installs
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 
 
@@ -145,7 +145,7 @@ For those who want to do CEH, the following links are for you.
 
 ## YouTube Channels
 
-Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these type of attacks...
+Now let’s get Towards YouTube Channel Links... These Channels are Shared By Hackers where They Upload their Video POCs.. Watching them u can actually understand how to demonstrate these types of attacks...
 
 1. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)    
 2. [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
@@ -175,7 +175,7 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 26. [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 27. [GetCyber](https://www.youtube.com/@GetCyber/videos)
 
-Any Channel Link Missing? Kindly add it in Comments 
+Any Channel Link Missing? Kindly add it in the Comments 
 
 ### Forums
 Name    |    Description
@@ -191,7 +191,7 @@ Name    |    Description
 Your contributions and suggestions are heartily welcome. ([emoji key](https://allcontributors.org/docs/en/emoji-key)) 
 
 # NOTE:
-All references taken from the Internet and shared on Internet xD Thanks to those who shared their opinion before that helped me learn 😉
+All references are taken from the Internet and shared on the Internet xD Thanks to those who shared their opinion before that helped me learn 😉
 if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it here.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
