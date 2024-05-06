@@ -174,6 +174,7 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 25. [the cyber mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 26. [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 27. [GetCyber](https://www.youtube.com/@GetCyber/videos)
+28. [Loi Liang Yang](https://www.youtube.com/@LoiLiangYang)
 
 Any Channel Link Missing? Kindly add it in the Comments 
 
