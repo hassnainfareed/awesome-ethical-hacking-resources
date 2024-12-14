@@ -41,6 +41,7 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 ### Online
 Name  |  Description
 ----  |  ----
+[pwn.guide](https://pwn.guide/) | A cybersecurity education website, offering about 100 tutorials, ranging from web, wireless... hacking to defense tutorials & forensics. Offers free plan.
 [CTF Hacker101](https://ctf.hacker101.com/) | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.
 [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) | An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
 [TryHackMe](https://tryhackme.com) | TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
