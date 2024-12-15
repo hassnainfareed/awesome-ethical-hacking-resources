@@ -41,7 +41,6 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 ### Online
 Name  |  Description
 ----  |  ----
-
 [CTF Hacker101](https://ctf.hacker101.com/) | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.
 [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu) | An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
 [TryHackMe](https://tryhackme.com) | TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
@@ -117,8 +116,8 @@ Name    |    Description
 
 1.	[Computer Systems Security, MIT](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
-3. [cybrary](https://www.cybrary.it/catalog/cybersecurity/)
-4. [hackers academy](https://hackersacademy.com/)
+3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
+4.[hackers academy](https://hackersacademy.com/)
 
 For those who want to do CEH, the following links are for you.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
@@ -135,11 +134,11 @@ For those who want to do CEH, the following links are for you.
 
 ## Security Talks and Conferences
 
-1. [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
-2. [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
-3. [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
-4. [Defcon](https://www.youtube.com/user/DEFCONConference)
-5. [Security Tube](http://www.securitytube.net/)
+1.  [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
+2.  [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
+3.  [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
+4.  [Defcon](https://www.youtube.com/user/DEFCONConference)
+5.  [Security Tube](http://www.securitytube.net/)
 6.	[Kevin Mitnick: Live Hack at CeBIT](https://www.youtube.com/watch?v=Q7G3kKRdUl4)
 7.	[Ghost in the Cloud, Kevin Mitnick](https://www.youtube.com/watch?v=76yrWGzScgI)
 8.	[Kevin Mitnick | Talks at Google](https://www.youtube.com/watch?v=aUqes9QdLQ4)
